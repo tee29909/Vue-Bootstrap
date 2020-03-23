@@ -7,6 +7,7 @@
       <b-nav-item><router-link to="/table">Table</router-link></b-nav-item>
       <b-nav-item><router-link to="/about">About</router-link></b-nav-item>
       <b-nav-item><router-link to="/counter">Counter</router-link></b-nav-item>
+      <b-nav-item><router-link to="/users">Users</router-link></b-nav-item>
     </b-nav>
   </div>
 </template>
