@@ -25,6 +25,12 @@ const routes = [
     name: 'table',
     component: () => import('../views/Table.vue')
   },
+
+  {
+    path: '/counter',
+    name: 'counter',
+    component: () => import('../views/Counter.vue')
+  },
   {
     path: '/about',
     name: 'About',
